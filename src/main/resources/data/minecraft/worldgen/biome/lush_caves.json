@@ -123,14 +123,14 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_calcite_pillar"
+      "stratosphera:sparse_calcite_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:clay_water_fall"
+      "stratosphera:clay_water_fall"
     ],
     [],
     [
@@ -171,16 +171,16 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "eco:dense_rooted_azalea_trees",
-      "eco:rooted_big_tall_birch_trees",
-      "eco:rooted_tilted_tall_birch_trees",
-      "eco:rooted_normal_tall_birch_trees",
+      "stratosphera:dense_rooted_azalea_trees",
+      "stratosphera:rooted_big_tall_birch_trees",
+      "stratosphera:rooted_tilted_tall_birch_trees",
+      "stratosphera:rooted_normal_tall_birch_trees",
       "minecraft:lush_caves_ceiling_vegetation",
       "minecraft:cave_vines",
-      "eco:lush_cave_vines",
-      "eco:clay_pool_with_dripleaves",
-      "eco:lush_caves_vegetation",
-      "eco:lush_spore_blossom",
+      "stratosphera:lush_cave_vines",
+      "stratosphera:clay_pool_with_dripleaves",
+      "stratosphera:lush_caves_vegetation",
+      "stratosphera:lush_spore_blossom",
       "minecraft:classic_vines_cave_feature"
     ],
     [

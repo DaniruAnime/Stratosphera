@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:giant_mangrove",
+        "chance": 0.57
+      },
+      {
+        "feature": "stratosphera:secondary_giant_mangrove",
+        "chance": 0.43
+      }
+    ],
+    "default": "stratosphera:giant_mangrove"
+  },
+  "type": "minecraft:random_selector"
+}

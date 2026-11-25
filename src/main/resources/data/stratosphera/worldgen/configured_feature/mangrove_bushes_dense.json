@@ -1,0 +1,24 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:mangrove_bush",
+        "chance": 0.57
+      },
+      {
+        "feature": "stratosphera:rooted_bush",
+        "chance": 0.22
+      },
+      {
+        "feature": "stratosphera:thin_bush",
+        "chance": 0.18
+      },
+      {
+        "feature": "stratosphera:thick_bush",
+        "chance": 0.03
+      }
+    ],
+    "default": "stratosphera:mangrove_bush"
+  },
+  "type": "minecraft:random_selector"
+}

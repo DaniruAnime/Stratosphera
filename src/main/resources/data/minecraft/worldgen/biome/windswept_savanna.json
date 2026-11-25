@@ -141,15 +141,15 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_deepslate_pillar",
-      "eco:sparse_thin_obsidian_pillar"
+      "stratosphera:sparse_deepslate_pillar",
+      "stratosphera:sparse_thin_obsidian_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:crying_obsidian_water_fall"
+      "stratosphera:crying_obsidian_water_fall"
     ],
     [],
     [
@@ -188,37 +188,37 @@
       "minecraft:spring_water",
       "minecraft:spring_lava",
       "minecraft:glow_lichen",
-      "eco:grass_rocks",
-      "eco:dense_noise_tall_brown_mushrooms",
-      "eco:azalea_bushes",
-      "eco:acacia_bushes_dense"
+      "stratosphera:grass_rocks",
+      "stratosphera:dense_noise_tall_brown_mushrooms",
+      "stratosphera:azalea_bushes",
+      "stratosphera:acacia_bushes_dense"
     ],
     [
-      "eco:gray_stones",
-      "eco:white_stones",
-      "eco:terracotta_pond",
-      "eco:wild_flower_patch",
-      "eco:dense_mushroom_savanna",
-      "eco:trees_noise_mega_savanna",
-      "eco:basic_grass",
-      "eco:tall_grass",
+      "stratosphera:gray_stones",
+      "stratosphera:white_stones",
+      "stratosphera:terracotta_pond",
+      "stratosphera:wild_flower_patch",
+      "stratosphera:dense_mushroom_savanna",
+      "stratosphera:trees_noise_mega_savanna",
+      "stratosphera:basic_grass",
+      "stratosphera:tall_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:patch_berry_rare",
       "minecraft:warm_ocean_vegetation",
-      "eco:dense_rooted_azalea_trees",
-      "eco:rooted_towering_jungle_trees",
-      "eco:rooted_branching_jungle_trees",
-      "eco:rooted_jungle_bushes",
+      "stratosphera:dense_rooted_azalea_trees",
+      "stratosphera:rooted_towering_jungle_trees",
+      "stratosphera:rooted_branching_jungle_trees",
+      "stratosphera:rooted_jungle_bushes",
       "minecraft:lush_caves_ceiling_vegetation",
-      "eco:hanging_bee_hive",
-      "eco:cave_ceiling_shrubbery",
-      "eco:cave_leaf_vines",
-      "eco:lush_cave_vines",
-      "eco:dirt_pool_with_dripleaves",
-      "eco:sparse_lush_caves_vegetation",
-      "eco:lush_spore_blossom",
+      "stratosphera:hanging_bee_hive",
+      "stratosphera:cave_ceiling_shrubbery",
+      "stratosphera:cave_leaf_vines",
+      "stratosphera:lush_cave_vines",
+      "stratosphera:dirt_pool_with_dripleaves",
+      "stratosphera:sparse_lush_caves_vegetation",
+      "stratosphera:lush_spore_blossom",
       "minecraft:classic_vines_cave_feature"
     ],
     [

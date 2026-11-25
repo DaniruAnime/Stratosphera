@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:andesite_mountainous_rocks",
+        "chance": 0.82
+      },
+      {
+        "feature": "stratosphera:tuff_mountainous_rocks",
+        "chance": 0.18
+      }
+    ],
+    "default": "stratosphera:andesite_mountainous_rocks"
+  },
+  "type": "minecraft:random_selector"
+}

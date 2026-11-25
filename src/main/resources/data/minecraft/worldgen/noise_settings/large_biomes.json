@@ -147,7 +147,7 @@
       },
       "argument2": {
         "type": "minecraft:min",
-        "argument1": "eco:colby_jacked_slightly_down",
+        "argument1": "stratosphera:colby_jacked_slightly_down",
         "argument2": {
           "type": "minecraft:min",
           "argument1": {

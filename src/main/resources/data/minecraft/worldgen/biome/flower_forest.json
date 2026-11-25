@@ -143,17 +143,17 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_smooth_basalt_pillar",
-      "eco:amethyst_crystal_spike",
-      "eco:amethyst_crystal_ground_spike",
-      "eco:amethyst_spiral"
+      "stratosphera:sparse_smooth_basalt_pillar",
+      "stratosphera:amethyst_crystal_spike",
+      "stratosphera:amethyst_crystal_ground_spike",
+      "stratosphera:amethyst_spiral"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:amethyst_water_fall"
+      "stratosphera:amethyst_water_fall"
     ],
     [],
     [
@@ -187,11 +187,11 @@
       "minecraft:disk_gravel"
     ],
     [
-      "eco:smooth_basalt_blob",
-      "eco:calcite_blob",
-      "eco:calcite_ground_blob",
-      "eco:deepslate_calcite_blob",
-      "eco:smooth_basalt_calcite_blob"
+      "stratosphera:smooth_basalt_blob",
+      "stratosphera:calcite_blob",
+      "stratosphera:calcite_ground_blob",
+      "stratosphera:deepslate_calcite_blob",
+      "stratosphera:smooth_basalt_calcite_blob"
     ],
     [
       "minecraft:spring_water",
@@ -199,31 +199,31 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:grass_rocks",
-      "eco:rooted_dirt",
-      "eco:mossy_pond",
-      "eco:tall_mushrooms",
-      "eco:azalea_bushes",
+      "stratosphera:grass_rocks",
+      "stratosphera:rooted_dirt",
+      "stratosphera:mossy_pond",
+      "stratosphera:tall_mushrooms",
+      "stratosphera:azalea_bushes",
       "minecraft:bamboo_light",
-      "eco:trees_branching_oak",
-      "eco:trees_sparse_lush_oak",
-      "eco:trees_tall_oak",
-      "eco:trees_noise_tall_birch",
-      "eco:fallen_trees_birch_and_oak",
-      "eco:moss_patch",
-      "eco:extra_ancient_flower_patch",
-      "eco:extra_tulip_flower_patch",
-      "eco:extra_lily_flower_patch",
-      "eco:extra_tall_flower_patch",
-      "eco:noise_flower_cherry",
-      "eco:sparse_trees_giant_cherry",
-      "eco:basic_grass",
+      "stratosphera:trees_branching_oak",
+      "stratosphera:trees_sparse_lush_oak",
+      "stratosphera:trees_tall_oak",
+      "stratosphera:trees_noise_tall_birch",
+      "stratosphera:fallen_trees_birch_and_oak",
+      "stratosphera:moss_patch",
+      "stratosphera:extra_ancient_flower_patch",
+      "stratosphera:extra_tulip_flower_patch",
+      "stratosphera:extra_lily_flower_patch",
+      "stratosphera:extra_tall_flower_patch",
+      "stratosphera:noise_flower_cherry",
+      "stratosphera:sparse_trees_giant_cherry",
+      "stratosphera:basic_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:patch_berry_rare",
       "minecraft:warm_ocean_vegetation",
-      "eco:lush_spore_blossom"
+      "stratosphera:lush_spore_blossom"
     ],
     [
       "minecraft:freeze_top_layer"

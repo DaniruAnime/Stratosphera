@@ -108,23 +108,23 @@
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface",
-      "eco:delta"
+      "stratosphera:delta"
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:small_basalt_columns",
-      "eco:large_basalt_columns",
-      "eco:sparse_smooth_basalt_pillar"
+      "stratosphera:small_basalt_columns",
+      "stratosphera:large_basalt_columns",
+      "stratosphera:sparse_smooth_basalt_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:lava_fall"
+      "stratosphera:lava_fall"
     ],
     [
-      "eco:sand_patches"
+      "stratosphera:sand_patches"
     ],
     [
       "minecraft:ore_dirt",
@@ -164,17 +164,17 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:anvil_rocks",
-      "eco:terracotta_pond",
-      "eco:trees_dead_dark_oak",
-      "eco:dead_rooted_bushes",
-      "eco:bushes_clustered",
+      "stratosphera:anvil_rocks",
+      "stratosphera:terracotta_pond",
+      "stratosphera:trees_dead_dark_oak",
+      "stratosphera:dead_rooted_bushes",
+      "stratosphera:bushes_clustered",
       "minecraft:patch_grass_badlands",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_badlands",
-      "eco:clustered_pumpkin",
+      "stratosphera:clustered_pumpkin",
       "minecraft:patch_cactus_decorated",
       "minecraft:spring_delta",
       "minecraft:ore_magma",

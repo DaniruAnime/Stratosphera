@@ -1,0 +1,20 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:acacia_bush",
+        "chance": 0.57
+      },
+      {
+        "feature": "stratosphera:rooted_bush",
+        "chance": 0.23
+      },
+      {
+        "feature": "stratosphera:thin_bush",
+        "chance": 0.1
+      }
+    ],
+    "default": "stratosphera:acacia_bush"
+  },
+  "type": "minecraft:random_selector"
+}

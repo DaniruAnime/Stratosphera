@@ -1,0 +1,24 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:oak_bush",
+        "chance": 0.6
+      },
+      {
+        "feature": "stratosphera:dark_oak_bush",
+        "chance": 0.2
+      },
+      {
+        "feature": "stratosphera:thin_bush",
+        "chance": 0.17
+      },
+      {
+        "feature": "stratosphera:thick_bush",
+        "chance": 0.03
+      }
+    ],
+    "default": "stratosphera:oak_bush"
+  },
+  "type": "minecraft:random_selector"
+}

@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:larger_snowy_cherry_bush",
+        "chance": 0.34
+      },
+      {
+        "feature": "stratosphera:snowy_cherry_bush",
+        "chance": 0.66
+      }
+    ],
+    "default": "stratosphera:larger_snowy_cherry_bush"
+  },
+  "type": "minecraft:random_selector"
+}

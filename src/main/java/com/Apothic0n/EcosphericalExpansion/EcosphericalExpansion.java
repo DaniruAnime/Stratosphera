@@ -11,7 +11,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod(EcosphericalExpansion.MODID)
 public class EcosphericalExpansion {
-    public static final String MODID = "eco";
+    public static final String MODID = "stratosphera";
 
     public EcosphericalExpansion() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();

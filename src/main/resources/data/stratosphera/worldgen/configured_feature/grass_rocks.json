@@ -1,0 +1,24 @@
+{
+    "config": {
+      "features": [
+        {
+          "feature": "stratosphera:andesite_rocks",
+          "chance": 0.5
+        },
+        {
+          "feature": "stratosphera:granite_rocks",
+          "chance": 0.30
+        },
+        {
+          "feature": "stratosphera:calcite_rocks",
+          "chance": 0.16
+        },
+        {
+          "feature": "stratosphera:tuff_rocks",
+          "chance": 0.04
+        }
+      ],
+      "default": "stratosphera:andesite_rocks"
+    },
+    "type": "minecraft:random_selector"
+  }

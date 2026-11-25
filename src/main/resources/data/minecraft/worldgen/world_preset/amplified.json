@@ -1,7 +1,7 @@
 {
   "dimensions": {
     "minecraft:overworld": {
-      "type": "eco:the_amplified_overworld",
+      "type": "stratosphera:the_amplified_overworld",
       "generator": {
         "type": "minecraft:noise",
         "settings": "minecraft:amplified",

@@ -152,21 +152,21 @@
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface",
-      "eco:delta"
+      "stratosphera:delta"
     ],
     [
       "minecraft:amethyst_geode",
       "minecraft:forest_rock",
-      "eco:small_basalt_columns",
-      "eco:large_basalt_columns",
-      "eco:sparse_smooth_basalt_pillar"
+      "stratosphera:small_basalt_columns",
+      "stratosphera:large_basalt_columns",
+      "stratosphera:sparse_smooth_basalt_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:lava_fall"
+      "stratosphera:lava_fall"
     ],
     [],
     [
@@ -206,30 +206,30 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:gravelly_azalea_shrubbery",
-      "eco:gray_standalone_cliffs",
-      "eco:mossy_stone_filler",
-      "eco:moss_stones",
-      "eco:gray_stones",
-      "eco:mossy_pond",
+      "stratosphera:gravelly_azalea_shrubbery",
+      "stratosphera:gray_standalone_cliffs",
+      "stratosphera:mossy_stone_filler",
+      "stratosphera:moss_stones",
+      "stratosphera:gray_stones",
+      "stratosphera:mossy_pond",
       "minecraft:patch_large_fern",
-      "eco:wild_flower_patch",
-      "eco:trees_old_growth_spruce_taiga",
-      "eco:trees_giant_spruce",
-      "eco:fallen_trees_spruce",
-      "eco:bushes_taiga",
-      "eco:red_flowers",
+      "stratosphera:wild_flower_patch",
+      "stratosphera:trees_old_growth_spruce_taiga",
+      "stratosphera:trees_giant_spruce",
+      "stratosphera:fallen_trees_spruce",
+      "stratosphera:bushes_taiga",
+      "stratosphera:red_flowers",
       "minecraft:patch_dead_bush",
       "minecraft:brown_mushroom_old_growth",
       "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "eco:basic_grass",
-      "eco:fern_grass",
-      "eco:trees_pine_taiga",
+      "stratosphera:basic_grass",
+      "stratosphera:fern_grass",
+      "stratosphera:trees_pine_taiga",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:patch_berry_common",
       "minecraft:spring_delta",
       "minecraft:ore_magma",

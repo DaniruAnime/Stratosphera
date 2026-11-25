@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "eco:the_amplified_overworld",
-    "eco:the_enclosed_overworld",
-    "eco:the_open_overworld"
+    "stratosphera:the_amplified_overworld",
+    "stratosphera:the_enclosed_overworld",
+    "stratosphera:the_open_overworld"
   ]
 }

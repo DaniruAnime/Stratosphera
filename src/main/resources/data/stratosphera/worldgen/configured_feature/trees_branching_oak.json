@@ -1,0 +1,16 @@
+{
+    "config": {
+      "features": [
+        {
+          "feature": "stratosphera:twisted_oak",
+          "chance": 0.03
+        },
+        {
+          "feature": "stratosphera:branching_oak",
+          "chance": 0.97
+        }
+      ],
+      "default": "stratosphera:twisted_oak"
+    },
+    "type": "minecraft:random_selector"
+  }

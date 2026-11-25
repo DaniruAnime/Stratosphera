@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:mountainous_powder_snow_pile",
+        "chance": 0.75
+      },
+      {
+        "feature": "stratosphera:mountainous_snow_pile",
+        "chance": 0.25
+      }
+    ],
+    "default": "stratosphera:mountainous_snow_pile"
+  },
+  "type": "minecraft:random_selector"
+}

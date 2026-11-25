@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:andesite_standalone_cliffs",
+        "chance": 0.82
+      },
+      {
+        "feature": "stratosphera:tuff_standalone_cliffs",
+        "chance": 0.18
+      }
+    ],
+    "default": "stratosphera:andesite_standalone_cliffs"
+  },
+  "type": "minecraft:random_selector"
+}

@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:short_rooted_bush",
+        "chance": 0.8
+      },
+      {
+        "feature": "stratosphera:rooted_bush",
+        "chance": 0.2
+      }
+    ],
+    "default": "stratosphera:short_rooted_bush"
+  },
+  "type": "minecraft:random_selector"
+}

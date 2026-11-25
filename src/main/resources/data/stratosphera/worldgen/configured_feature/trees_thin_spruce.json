@@ -1,0 +1,20 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "minecraft:oak_bees_002",
+        "chance": 0.12
+      },
+      {
+        "feature": "stratosphera:towering_spruce",
+        "chance": 0.12
+      },
+      {
+        "feature": "stratosphera:oak_bush",
+        "chance": 0.66
+      }
+    ],
+    "default": "stratosphera:towering_spruce"
+  },
+  "type": "minecraft:random_selector"
+}

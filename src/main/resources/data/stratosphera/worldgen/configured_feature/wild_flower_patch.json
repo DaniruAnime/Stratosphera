@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.075,
+        "feature": "stratosphera:ancient_flower_patch"
+      },
+      {
+        "chance": 0.25,
+        "feature": "stratosphera:tulip_flower_patch"
+      },
+      {
+        "chance": 0.175,
+        "feature": "stratosphera:lily_flower_patch"
+      },
+      {
+        "chance": 0.34,
+        "feature": "stratosphera:grassy_patch"
+      },
+      {
+        "chance": 0.16,
+        "feature": "stratosphera:tall_flower_patch"
+      }
+    ],
+    "default": "stratosphera:grassy_patch"
+  }
+}

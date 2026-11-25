@@ -109,23 +109,23 @@
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface",
-      "eco:delta"
+      "stratosphera:delta"
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:small_basalt_columns",
-      "eco:large_basalt_columns",
-      "eco:sparse_smooth_basalt_pillar"
+      "stratosphera:small_basalt_columns",
+      "stratosphera:large_basalt_columns",
+      "stratosphera:sparse_smooth_basalt_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:lava_fall"
+      "stratosphera:lava_fall"
     ],
     [
-      "eco:shallow_mud_patches"
+      "stratosphera:shallow_mud_patches"
     ],
     [
       "minecraft:ore_dirt",
@@ -165,15 +165,15 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:grass_rocks",
-      "eco:terracotta_pond",
-      "eco:red_sand",
-      "eco:basalt",
-      "eco:basalt_rubble",
-      "eco:trees_flooded_mangrove",
-      "eco:red_flowers",
-      "eco:basic_grass",
-      "eco:fern_grass",
+      "stratosphera:grass_rocks",
+      "stratosphera:terracotta_pond",
+      "stratosphera:red_sand",
+      "stratosphera:basalt",
+      "stratosphera:basalt_rubble",
+      "stratosphera:trees_flooded_mangrove",
+      "stratosphera:red_flowers",
+      "stratosphera:basic_grass",
+      "stratosphera:fern_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:warm_ocean_vegetation",
       "minecraft:sea_pickle",

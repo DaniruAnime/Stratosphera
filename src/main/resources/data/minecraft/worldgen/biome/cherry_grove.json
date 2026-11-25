@@ -130,17 +130,17 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_smooth_basalt_pillar",
-      "eco:amethyst_crystal_spike",
-      "eco:amethyst_crystal_ground_spike",
-      "eco:amethyst_spiral"
+      "stratosphera:sparse_smooth_basalt_pillar",
+      "stratosphera:amethyst_crystal_spike",
+      "stratosphera:amethyst_crystal_ground_spike",
+      "stratosphera:amethyst_spiral"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:amethyst_water_fall"
+      "stratosphera:amethyst_water_fall"
     ],
     [],
     [
@@ -174,11 +174,11 @@
       "minecraft:disk_gravel"
     ],
     [
-      "eco:smooth_basalt_blob",
-      "eco:calcite_blob",
-      "eco:calcite_ground_blob",
-      "eco:deepslate_calcite_blob",
-      "eco:smooth_basalt_calcite_blob"
+      "stratosphera:smooth_basalt_blob",
+      "stratosphera:calcite_blob",
+      "stratosphera:calcite_ground_blob",
+      "stratosphera:deepslate_calcite_blob",
+      "stratosphera:smooth_basalt_calcite_blob"
     ],
     [
       "minecraft:spring_water",
@@ -186,24 +186,24 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:grass_rocks",
-      "eco:calcite",
-      "eco:calcite_pond",
-      "eco:tall_mushrooms",
-      "eco:azalea_bushes",
+      "stratosphera:grass_rocks",
+      "stratosphera:calcite",
+      "stratosphera:calcite_pond",
+      "stratosphera:tall_mushrooms",
+      "stratosphera:azalea_bushes",
       "minecraft:bamboo_light",
-      "eco:wild_flower_patch",
+      "stratosphera:wild_flower_patch",
       "minecraft:flower_cherry",
-      "eco:roses",
+      "stratosphera:roses",
       "minecraft:trees_cherry",
-      "eco:trees_giant_cherry",
-      "eco:basic_grass",
+      "stratosphera:trees_giant_cherry",
+      "stratosphera:basic_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:patch_berry_rare",
       "minecraft:warm_ocean_vegetation",
-      "eco:lush_spore_blossom"
+      "stratosphera:lush_spore_blossom"
     ],
     [
       "minecraft:freeze_top_layer"

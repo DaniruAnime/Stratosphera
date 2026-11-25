@@ -130,10 +130,10 @@
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:clay_water_fall"
+      "stratosphera:clay_water_fall"
     ],
     [
-      "eco:sand_patches"
+      "stratosphera:sand_patches"
     ],
     [
       "minecraft:ore_dirt",
@@ -173,24 +173,24 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:anvil_rocks",
-      "eco:grassy_terracotta",
-      "eco:terracotta_pond",
-      "eco:grassy_terracotta_pool",
-      "eco:trees_mega_savanna",
-      "eco:bushes_clustered",
-      "eco:trees_flooded_mangrove",
-      "eco:tall_cactus",
-      "eco:red_flowers",
-      "eco:basic_grass",
-      "eco:tall_grass",
+      "stratosphera:anvil_rocks",
+      "stratosphera:grassy_terracotta",
+      "stratosphera:terracotta_pond",
+      "stratosphera:grassy_terracotta_pool",
+      "stratosphera:trees_mega_savanna",
+      "stratosphera:bushes_clustered",
+      "stratosphera:trees_flooded_mangrove",
+      "stratosphera:tall_cactus",
+      "stratosphera:red_flowers",
+      "stratosphera:basic_grass",
+      "stratosphera:tall_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:warm_ocean_vegetation",
       "minecraft:sea_pickle",
-      "eco:large_dripstone",
-      "eco:dripstone_cluster",
-      "eco:pointed_dripstone",
-      "eco:clay_pool_with_dripleaves"
+      "stratosphera:large_dripstone",
+      "stratosphera:dripstone_cluster",
+      "stratosphera:pointed_dripstone",
+      "stratosphera:clay_pool_with_dripleaves"
     ],
     [
       "minecraft:freeze_top_layer"

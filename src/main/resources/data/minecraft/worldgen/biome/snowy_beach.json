@@ -110,7 +110,7 @@
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:clay_water_fall"
+      "stratosphera:clay_water_fall"
     ],
     [],
     [
@@ -142,8 +142,8 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "eco:white_mountainous_rocks",
-      "eco:mountainous_snow"
+      "stratosphera:white_mountainous_rocks",
+      "stratosphera:mountainous_snow"
     ],
     [],
     [
@@ -152,19 +152,19 @@
     ],
     [
       "minecraft:glow_lichen",
-      "eco:white_stones",
-      "eco:calcite_pond",
+      "stratosphera:white_stones",
+      "stratosphera:calcite_pond",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
-      "eco:large_dripstone",
-      "eco:dripstone_cluster",
-      "eco:pointed_dripstone",
-      "eco:clay_pool_with_dripleaves"
+      "stratosphera:large_pumpkin",
+      "stratosphera:large_dripstone",
+      "stratosphera:dripstone_cluster",
+      "stratosphera:pointed_dripstone",
+      "stratosphera:clay_pool_with_dripleaves"
     ],
     [
       "minecraft:freeze_top_layer"

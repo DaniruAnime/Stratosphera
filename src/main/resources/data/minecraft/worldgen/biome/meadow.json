@@ -128,15 +128,15 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_deepslate_pillar",
-      "eco:sparse_thin_obsidian_pillar"
+      "stratosphera:sparse_deepslate_pillar",
+      "stratosphera:sparse_thin_obsidian_pillar"
     ],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
     [
-      "eco:crying_obsidian_water_fall"
+      "stratosphera:crying_obsidian_water_fall"
     ],
     [],
     [
@@ -172,27 +172,27 @@
     ],
     [
       "minecraft:ore_infested",
-      "eco:sculk_vein",
-      "eco:sculk_patch_deep_dark"
+      "stratosphera:sculk_vein",
+      "stratosphera:sculk_patch_deep_dark"
     ],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava",
       "minecraft:glow_lichen",
-      "eco:grass_rocks",
-      "eco:tall_mushrooms",
-      "eco:wild_flower_patch",
-      "eco:azalea_bushes",
-      "eco:mangrove_bushes_dense"
+      "stratosphera:grass_rocks",
+      "stratosphera:tall_mushrooms",
+      "stratosphera:wild_flower_patch",
+      "stratosphera:azalea_bushes",
+      "stratosphera:mangrove_bushes_dense"
     ],
     [
-      "eco:dense_flower_meadow",
+      "stratosphera:dense_flower_meadow",
       "minecraft:trees_meadow",
-      "eco:basic_grass",
-      "eco:tall_grass",
+      "stratosphera:basic_grass",
+      "stratosphera:tall_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:patch_berry_rare",
       "minecraft:warm_ocean_vegetation"
     ],

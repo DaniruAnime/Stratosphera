@@ -1,13 +1,13 @@
 {
   "replace": false,
   "values": [
-    "eco:exospherical",
-    "eco:thermospherical",
-    "eco:mesospherical",
-    "eco:stratospherical",
-    "eco:ogstratospherical",
-    "eco:tropospherical",
-    "eco:lithospherical",
-    "eco:asthenospherical"
+    "stratosphera:exospherical",
+    "stratosphera:thermospherical",
+    "stratosphera:mesospherical",
+    "stratosphera:stratospherical",
+    "stratosphera:ogstratospherical",
+    "stratosphera:tropospherical",
+    "stratosphera:lithospherical",
+    "stratosphera:asthenospherical"
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "generator.stratosphera.exospherical": "Exospherical",
+  "generator.stratosphera.thermospherical": "Thermospherical",
+  "generator.stratosphera.mesospherical": "Mesospherical",
+  "generator.stratosphera.stratospherical": "Stratospherical",
+  "generator.stratosphera.ogstratospherical": "OG Stratospherical",
+  "generator.stratosphera.tropospherical": "Tropospherical",
+  "generator.stratosphera.lithospherical": "Lithospherical",
+  "generator.stratosphera.asthenospherical": "Asthenospherical",
+
+  "biome.stratosphera.floating_river": "Floating River"
+}

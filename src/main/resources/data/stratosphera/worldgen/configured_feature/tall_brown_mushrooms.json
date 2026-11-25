@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "stratosphera:tilted_tall_mushroom",
+        "chance": 0.67
+      },
+      {
+        "feature": "stratosphera:huge_brown_mushroom",
+        "chance": 0.33
+      }
+    ],
+    "default": "stratosphera:tilted_tall_mushroom"
+  },
+  "type": "minecraft:random_selector"
+}

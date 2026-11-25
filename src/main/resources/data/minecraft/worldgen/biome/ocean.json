@@ -130,9 +130,9 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "eco:sparse_prismarine_pillar",
-      "eco:sparse_dark_prismarine_pillar",
-      "eco:thin_slime_pillar"
+      "stratosphera:sparse_prismarine_pillar",
+      "stratosphera:sparse_dark_prismarine_pillar",
+      "stratosphera:thin_slime_pillar"
     ],
     [
       "minecraft:monster_room",
@@ -140,7 +140,7 @@
     ],
     [
 
-      "eco:dense_dark_prismarine_water_fall"
+      "stratosphera:dense_dark_prismarine_water_fall"
     ],
     [],
     [
@@ -174,7 +174,7 @@
       "minecraft:disk_gravel"
     ],
     [
-      "eco:ceiling_dripstone"
+      "stratosphera:ceiling_dripstone"
     ],
     [
       "minecraft:spring_water",
@@ -183,31 +183,31 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_water",
-      "eco:bushes_super_dense",
+      "stratosphera:bushes_super_dense",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "eco:large_pumpkin",
+      "stratosphera:large_pumpkin",
       "minecraft:seagrass_normal",
       "minecraft:seagrass_simple",
       "minecraft:kelp_cold",
-      "eco:cave_ceiling_shrubbery",
-      "eco:cave_leaf_vines",
-      "eco:sparse_aquatic_vines",
-      "eco:hanging_sea_lantern",
-      "eco:cave_brain_coral",
-      "eco:cave_bubble_coral",
-      "eco:cave_tube_coral",
-      "eco:cave_fire_coral",
-      "eco:cave_slime_vines",
-      "eco:prismarine_pool_with_dripleaves",
-      "eco:cave_seagrass_warm",
-      "eco:cave_kelp_warm",
-      "eco:cave_pickle",
-      "eco:lush_spore_blossom",
+      "stratosphera:cave_ceiling_shrubbery",
+      "stratosphera:cave_leaf_vines",
+      "stratosphera:sparse_aquatic_vines",
+      "stratosphera:hanging_sea_lantern",
+      "stratosphera:cave_brain_coral",
+      "stratosphera:cave_bubble_coral",
+      "stratosphera:cave_tube_coral",
+      "stratosphera:cave_fire_coral",
+      "stratosphera:cave_slime_vines",
+      "stratosphera:prismarine_pool_with_dripleaves",
+      "stratosphera:cave_seagrass_warm",
+      "stratosphera:cave_kelp_warm",
+      "stratosphera:cave_pickle",
+      "stratosphera:lush_spore_blossom",
       "minecraft:classic_vines_cave_feature"
     ],
     [

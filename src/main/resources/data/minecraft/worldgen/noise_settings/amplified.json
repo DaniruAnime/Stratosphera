@@ -183,7 +183,7 @@
           },
           "argument2": {
             "type": "minecraft:min",
-            "argument1": "eco:colby",
+            "argument1": "stratosphera:colby",
             "argument2": {
               "type": "minecraft:add",
               "argument1": {
@@ -236,7 +236,7 @@
         "type": "minecraft:max",
         "argument1": {
           "type": "minecraft:min",
-          "argument1": "eco:colby_jacked_up",
+          "argument1": "stratosphera:colby_jacked_up",
           "argument2": {
             "type": "minecraft:add",
             "argument1": {
