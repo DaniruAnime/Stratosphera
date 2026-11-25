@@ -1,13 +1,6 @@
 {
   "replace": false,
   "values": [
-    "stratosphera:exospherical",
-    "stratosphera:thermospherical",
-    "stratosphera:mesospherical",
-    "stratosphera:stratospherical",
-    "stratosphera:ogstratospherical",
-    "stratosphera:tropospherical",
-    "stratosphera:lithospherical",
-    "stratosphera:asthenospherical"
+    "stratosphera:ogstratospherical"
   ]
 }
